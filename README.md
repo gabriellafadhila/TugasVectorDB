@@ -1,2 +1,5 @@
-# TugasVectorDB
-Tugas VectorDB_Natural Language Processing_Gabriella Fadhilatus Awanda_2446000025
+# Tugas VectorDB
+Tugas VectorDB_Natural Language Processing
+
+Nama : Gabriella Fadhilatus Awanda
+NIM  : 2446000025
